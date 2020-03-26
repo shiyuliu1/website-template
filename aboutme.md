@@ -1,15 +1,10 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Shiyu Liu
+subtitle: Hi there! Welcome to Shiyu's personal website!
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+Shiyu Liu is currently a master student in data science at [Brown University](http://brown.edu). 
 
 ### my history
 
