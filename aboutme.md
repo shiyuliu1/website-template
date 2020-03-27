@@ -7,16 +7,12 @@ subtitle: Hi there! Welcome to Shiyu's personal website.
 
 ![](/img/cover.JPG){:height="50%" width="50%"}
 
+![](/img/dogs.JPG){:height="50%" width="50%"}
+
 
 Shiyu Liu is currently a master student in [data science](dsi.brown.edu) at [Brown University](http://brown.edu). He compledted his bachelor degree in [cognitive science](https://www.cogsci.uci.edu/) and a minor in statistics at [UC Irvine](uci.edu). Shiyu is particularly interested in applying machine learning and deep leanring techniques in health data, cognition process and social sciences. 
 
-<div class="social-icons">
-  <a href="https://www.linkedin.com/in/shiyuliu1">
-    <i class="fab fa-linkedin-in"></i>
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100005965245038">
-    <i class="fab fa-facebook"></i>
-  </a> 
+
 
 
 
