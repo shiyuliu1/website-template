@@ -22,9 +22,9 @@ description: Personal Website of Shiyu
 navbar-links:
   About Me: "aboutme"
   Links:
-    - Linedin: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-  Shiyu's Gallery: "https://www.linkedin.com/in/shiyu-liu1/"
+    - Linedin: "https://www.linkedin.com/in/shiyu-liu1/"
+    - Github Repo: "https://github.com/shiyuliu1"
+  Shiyu's Photography Gallery: "gallery"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
