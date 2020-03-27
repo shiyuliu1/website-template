@@ -22,7 +22,7 @@ description: Personal Website of Shiyu
 navbar-links:
   About Me: "aboutme"
   Links:
-    - Linedin: "https://www.linkedin.com/in/shiyu-liu1/"
+    - Linkedin: "https://www.linkedin.com/in/shiyu-liu1/"
     - Github Repo: "https://github.com/shiyuliu1"
   Shiyu's Photography Gallery: "gallery"
 
