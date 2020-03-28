@@ -17,7 +17,7 @@ columns as independent variables with three properties, mean, standard error and
 
 ![](/img/breastcancer_hist.png){:height="49%" width="49%"} ![](/img/breastcancer_class.png){:height="49%" width="49%"}
 
-Explotatry data analysis(EDA) was first conducted to explore both independent variables and target variables. For example, the above two figures show that some cytological features are more predictive than other features on diagnosis. For machine learning algorithms, LASSO regression, support vector machine, random forest, gradient boosting and Gaussian naive bayes classifier, were applied to this classification problem. In addition to the prediction accuracy, confusion matrix was then analyzed for the purpose of reducing Type II error. This is becasue clinical trials do not want to classify any positive cases as negative cases, resulting in delaying the treatments. 
+Explotatry data analysis(EDA) was first conducted to explore both independent variables and target variables. For example, the above two figures show that some cytological features are more predictive than other features on diagnosis result. For machine learning algorithms, LASSO regression, support vector machine, random forest, gradient boosting and Gaussian naive bayes classifier, were applied to this classification problem. In addition to the prediction accuracy, confusion matrix was then analyzed for the purpose of reducing Type II error. This is becasue clinical trials do not want to classify any positive cases as negative cases, resulting in delaying the treatments. 
 
 ![](/img/breastcancer_confusion.png){:height="70%" width="70%"} 
 
