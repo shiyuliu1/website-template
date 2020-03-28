@@ -76,3 +76,6 @@ You can add notification, warning and error boxes like this:
 
 {: .box-error}
 **Error:** This is an error box.
+
+
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
