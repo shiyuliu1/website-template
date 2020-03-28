@@ -19,8 +19,8 @@ columns as independent variables with three properties, mean, standard error and
 
 Explotatry data analysis(EDA) was first conducted to explore both independent variables and target variables. For machine learning algorithms, LASSO regression, support vector machine, random forest, gradient boosting and Gaussian naive bayes classifier, were applied to this classification problem. In addition to the prediction accuracy, confusion matrix was then analyzed for the purpose of reducing Type II error. This is becasue clinical trials do not want to classify any positive cases as negative cases, resulting in delaying the treatments. 
 
-To download my final repoert, follow this [link](https://github.com/shiyuliu1/data1030_project/raw/master/reports/Final_Report.pdf)
-My code can be found in my [Github Repository](https://github.com/shiyuliu1/data1030_project).
+To download my final repoert, follow this [link](https://github.com/shiyuliu1/data1030_project/raw/master/reports/Final_Report.pdf).
+My code and models can be found in my [Github Repository](https://github.com/shiyuliu1/data1030_project).
 
 
 ![](/img/breastcancer_confusion.png){:height="70%" width="70%"} 
