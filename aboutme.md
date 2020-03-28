@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Shiyu Liu
-subtitle: Hi There! Welcome to Shiyu's Introduction Paege.
+subtitle: Hi There! Welcome to Shiyu's Introduction Page.
 ---
 
 
