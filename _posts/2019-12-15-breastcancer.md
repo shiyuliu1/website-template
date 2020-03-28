@@ -2,8 +2,13 @@
 layout: post
 title:  Breast Cancer Cell Classification
 subtitle: Prediction Accuracy and Sensitivity Analysis on Different Models for Breast Cancer Wisconsin Dataset
-tags: [Machine Learning, Classification]
+tags: [Machine Learning, Classification, Data Visualization]
 ---
 
-
-Bengali is the 5th most spoken language in the world with hundreds of millions of speakers. Considering this, there’s a significant business and educational interest in developing AI that can optically recognize images of the language handwritten. In this project, we used trasfer lea
+Forecasting breast cancer can significantly increase the survival rate of patients, and classifying the
+sample tumor cells as malignant or benign is one of the best and most direct ways to make accurate
+predictions. Breast Cancer Wisconsin from UCI Machine Learning Repository was chosen as the dataset
+to implement machine models and predict diagnosis result on practical cases. The target variable in this
+dataset is the final diagnosis whether the tumor is malignant or benign. There are 30 real-valued
+columns as independent variables with three properties, mean, standard error and worst cases, for
+10 cytological features.
