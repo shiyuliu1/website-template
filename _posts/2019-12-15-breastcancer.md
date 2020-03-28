@@ -15,7 +15,7 @@ columns as independent variables with three properties, mean, standard error and
 10 cytological features.
 
 
-![](/img/breastcancer_hist.png){:height="49%" width="49%"} ![](/img/breastcancer_.png){:height="49%" width="49%"}
+![](/img/breastcancer_hist.png){:height="49%" width="49%"} ![](/img/breastcancer_class.png){:height="49%" width="49%"}
 
 Explotatry data analysis(EDA) was first conducted to explore both independent variables and target variables. For machine learning algorithms, LASSO regression, support vector machine, random forest, gradient boosting and Gaussian naive bayes classifier, were applied to this classification problem. In addition to the prediction accuracy, confusion matrix was then analyzed for the purpose of reducing Type II error. This is becasue clinical trials do not want to classify any positive cases as negative cases, resulting in delaying the treatments. 
 
