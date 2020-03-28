@@ -21,7 +21,7 @@ Explotatry data analysis(EDA) was first conducted to explore both independent va
 
 ![](/img/breastcancer_confusion.png){:height="70%" width="70%"} 
 
-To download my final repoert, follow this [link](https://docs.google.com/viewer?url=${https://github.com/shiyuliu1/data1030_project/raw/master/reports/Final_Report.pdf}).
+To download my final repoert, follow this [link](https://docs.google.com/viewer?url=https://github.com/shiyuliu1/data1030_project/raw/master/reports/Final_Report.pdf).
 My code and models can be found in my [Github Repository](https://github.com/shiyuliu1/data1030_project).
 
 
