@@ -23,4 +23,4 @@ To download my final repoert, follow this [link](https://github.com/shiyuliu1/da
 My code can be found in my [Github Repository](https://github.com/shiyuliu1/data1030_project).
 
 
-![](/img/breastcancer_confusion.png){:height="49%" width="49%"} 
+![](/img/breastcancer_confusion.png){:height="70%" width="70%"} 
