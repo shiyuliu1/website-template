@@ -15,5 +15,8 @@ subtitle: View some of Shiyu's photography Works and Video Clips
 ![](/img/gallery/hawaii5.jpeg){:height="49%" width="49%"} ![](/img/gallery/hawaii6.jpeg){:height="49%" width="49%"}
 
 
+{% include image.html url=/img/gallery/hawaii5.jpeg description="My cat, Robert Downey Jr." %}
+
+
 
 
