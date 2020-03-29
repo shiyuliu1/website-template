@@ -6,6 +6,9 @@ subtitle: View some of Shiyu's Photography Works and Video Clips
 
 
 #### Arizona & Utah 2019
+![](/img/gallery/IMG_7438.jpg){:height="235px"} ![](/img/gallery/IMG_6193.jpg){:height="235px"}
+
+
 ![](/img/gallery/IMG_5795-2.jpg){:height="220px"} ![](/img/gallery/IMG_6033.jpg){:height="220px"}
 
 
@@ -27,6 +30,16 @@ subtitle: View some of Shiyu's Photography Works and Video Clips
 
 
 ![](/img/gallery/joshua3.jpeg){:height="49%" width="49%"} [![](/img/gallery/joshua2.jpeg){:height="49%" width="49%"}](/img/gallery/joshua2.jpeg)
+
+
+
+#### San Francisco, CA 2016
+![](/img/gallery/IMG_1401.jpg){:height="49%" width="49%"} ![](/img/gallery/IMG_1257.jpg){:height="49%" width="49%"}
+
+
+#### Yosimite National Park, CA 2017
+![](/img/gallery/IMG_13490.jpg){:height="49%" width="49%"} ![](/img/gallery/IMG_3494.jpg){:height="49%" width="49%"}
+![](/img/gallery/IMG_3499.jpg){:height="49%" width="49%"} ![](/img/gallery/IMG_3443.jpg){:height="49%" width="49%"}
 
 
 #### San Francisco, CA 2016
