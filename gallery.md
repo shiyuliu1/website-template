@@ -33,10 +33,6 @@ subtitle: View Some of Shiyu's Photography Works and Video Clips
 
 
 
-#### San Francisco, CA 2016
-![](/img/gallery/IMG_1401.jpg){:height="49%" width="49%"} ![](/img/gallery/IMG_1257.jpg){:height="49%" width="49%"}
-
-
 #### Yosimite National Park, CA 2017
 ![](/img/gallery/IMG_3490.jpg){:height="49%" width="49%"} ![](/img/gallery/IMG_3494.jpg){:height="49%" width="49%"}
 
