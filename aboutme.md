@@ -1,7 +1,8 @@
 ---
 layout: page
 title: About Shiyu Liu
-bigimg: /img/gallery/skyjump2.jpg: "Hawaii, 2017"
+bigimg: 
+  -/img/gallery/skyjump2.jpg : "Hawaii, 2017"
 subtitle: Hi There! Welcome to Shiyu's Introduction Page.
 ---
 
