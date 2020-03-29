@@ -11,7 +11,11 @@ subtitle: View some of Shiyu's photography Works and Video Clips
 
 #### Honolulu, HI
 ![](/img/gallery/hawaii1.jpg){:height="49%" width="49%"} ![](/img/gallery/hawaii2.jpg){:height="49%" width="49%"}
+
+
 ![](/img/gallery/hawaii3.jpg){:height="49%" width="49%"} ![](/img/gallery/hawaii4.jpg){:height="49%" width="49%"}
+
+
 ![](/img/gallery/hawaii5.jpg){:height="49%" width="49%"} ![](/img/gallery/hawaii6.jpg){:height="49%" width="49%"}
 
 
