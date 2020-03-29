@@ -18,3 +18,18 @@ This blog uses [google search](http://google.com/cse).
   })();
 </script>
 <gcse:search></gcse:search>
+
+<div class="remove-style">
+   <script>
+        (function() {
+            var cx = '004095808219628305223:hm1spuu7vcu';
+            var gcse = document.createElement('script');
+            gcse.type = 'text/javascript';
+            gcse.async = true;
+            gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(gcse, s);
+        })();
+    </script>
+<gcse:search></gcse:search>
+</div>
