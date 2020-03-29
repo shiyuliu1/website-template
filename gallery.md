@@ -5,7 +5,7 @@ subtitle: View some of Shiyu's Photography Works and Video Clips
 ---
 
 
-#### Arizona, Utah 2019
+#### Arizona & Utah 2019
 ![](/img/gallery/IMG_5795-2.jpg){:height="220px"} ![](/img/gallery/IMG_6033.jpg){:height="220px"}
 
 
