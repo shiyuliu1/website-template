@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Shiyu's Gallery
-subtitle: View some of Shiyu's Photography Works and Video Clips
+subtitle: View Some of Shiyu's Photography Works and Video Clips
 ---
 
 
