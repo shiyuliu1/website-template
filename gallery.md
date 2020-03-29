@@ -5,7 +5,7 @@ subtitle: View some of Shiyu's photography Works and Video Clips
 ---
 ### Joshua Tree National Park, CA
 ![](/img/gallery/joshua1.jpeg){:height="49%" width="49%"} ![](/img/gallery/joshua2.jpeg){:height="49%" width="49%"}
-![](/img/gallery/joshua3.jpeg){:height="49%" width="49%"} ![![](/img/gallery/joshua2.jpeg){:height="49%" width="49%"}](/img/gallery/joshua2.jpeg)
+![](/img/gallery/joshua3.jpeg){:height="49%" width="49%"} [![](/img/gallery/joshua2.jpeg){:height="49%" width="49%"}](/img/gallery/joshua2.jpeg)
 
 <script>
 function randomSite() {
