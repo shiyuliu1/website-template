@@ -9,6 +9,7 @@ This blog uses [google search](http://google.com/cse).
 <script>
   (function() {
     var cx = '004095808219628305223:ww3qv4mnt4j';
+    require('cse')(cx);
     var gcse = document.createElement('script');
     gcse.type = 'text/javascript';
     gcse.async = true;
