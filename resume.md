@@ -1,8 +1,6 @@
 ---
-layout: minimal
-title: "Shiyu Liu - Resume"
-show-avatar: true
-nav-short: false
+layout: base
+title: Shiyu Liu - Resume
 --
 
 <div style="text-align: center; margin-top: 90px;">
