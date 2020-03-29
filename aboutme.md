@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Shiyu Liu
-bigimg: /img/gallery/skyjump1.jpg
+bigimg: /img/gallery/skyjump2.jpg
 subtitle: Hi There! Welcome to Shiyu's Introduction Page.
 ---
 
