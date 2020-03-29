@@ -22,5 +22,3 @@ subtitle: View some of Shiyu's photography Works and Video Clips
 #### Seattle, WA
 ![](/img/gallery/IMG_9531.jpg){:height="49%" width="49%"} ![](/img/gallery/IMG_9784.jpg){:height="49%" width="49%"}
 
-
-{% include image.html url=/img/gallery/hawaii5.jpeg description="My cat, Robert Downey Jr." %}
