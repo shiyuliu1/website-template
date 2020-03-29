@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: minimal
 title: "Shiyu Liu - Resume"
 show-avatar: true
 nav-short: false
