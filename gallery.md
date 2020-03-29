@@ -6,11 +6,6 @@ subtitle: View some of Shiyu's photography Works and Video Clips
 ### Joshua Tree National Park, CA
 ![](/img/gallery/joshua1.jpeg){:height="49%" width="49%"}
 
-
-
-<p>我有很多聪明有趣的朋友。 一起来看看他们<a href="javascript:randomSite()">其中一个</a>是谁吧!</p>
-
-
 <script>
 function randomSite() {
 var links = [
@@ -33,4 +28,9 @@ var links = [
     document.getElementById("link").innerHTML = openSite();
 }
 </script>
+
+<p>我有很多聪明有趣的朋友。 一起来看看他们<a href="javascript:randomSite()">其中一个</a>是谁吧!</p>
+
+
+
 
