@@ -9,24 +9,10 @@ subtitle: View some of Shiyu's photography Works and Video Clips
 
 ![](/img/gallery/joshua3.jpeg){:height="49%" width="49%"} [![](/img/gallery/joshua2.jpeg){:height="49%" width="49%"}](/img/gallery/joshua2.jpeg)
 
-<script>
-function randomSite() {
-    var links = [
-                  "google.com",
-                  "youtube.com",
-                  "reddit.com",
-                  "apple.com"]
 
-    var randIdx = Math.random() * links.length;
-    randIdx = parseInt(randIdx, 10);
-    var link = 'http://' + links[randIdx];
-              
-    return link;
-}
-</script>
 
 <script type="text/javascript">
-function randomlinks(){
+function randomSite(){
     var myrandom=Math.round(Math.random()*9)
     var links=new Array()
     links[0]="http://www.javascriptkit.com"
@@ -45,5 +31,5 @@ function randomlinks(){
 </script>
 
 
-
+<p>aaa<a href="javascript:randomSite()">其中一个</a>??</p>
 
