@@ -6,10 +6,10 @@ subtitle: View some of Shiyu's photography Works and Video Clips
 
 
 #### Arizona, Utah 2019
-![](/img/gallery/IMG_5795-2.jpg){:height="49%" width="49%"} ![](/img/gallery/IMG_6033.jpg){:height="49%" width="49%"}
+![](/img/gallery/IMG_5795-2.jpg){:height="245px"} ![](/img/gallery/IMG_6033.jpg){:height="245px"}
 
 
-![](/img/gallery/MV_HDR.jpg){:height="49%" width="49%"} ![](/img/gallery/IMG_5849.jpg){:height="49%" width="49%"}
+![](/img/gallery/MV_HDR.jpg){:height="245px"} ![](/img/gallery/IMG_5849.jpg){:height="245px"}
 
 
 #### Honolulu, HI 2017
