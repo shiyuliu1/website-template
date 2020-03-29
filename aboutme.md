@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: base
 title: About Shiyu Liu
 use-site-title: true
 bigimg: 
