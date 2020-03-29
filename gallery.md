@@ -3,11 +3,13 @@ layout: page
 title: Shiyu's Gallery
 subtitle: View some of Shiyu's photography Works and Video Clips
 ---
-### Joshua Tree National Park, CA
+#### Joshua Tree National Park, CA
 ![](/img/gallery/joshua1.jpeg){:height="49%" width="49%"} ![](/img/gallery/joshua4.jpeg){:height="49%" width="49%"}
 
 
 ![](/img/gallery/joshua3.jpeg){:height="49%" width="49%"} [![](/img/gallery/joshua2.jpeg){:height="49%" width="49%"}](/img/gallery/joshua2.jpeg)
+
+
 
 
 
@@ -26,8 +28,7 @@ function randomlinks(){
     links[8]="http://news.bbc.co.uk"
     links[9]="http://www.news.com.au"
  
-    var a = links[myrandom]
-    return a
+    window.location=links[myrandom]
 }
 </script>
 
