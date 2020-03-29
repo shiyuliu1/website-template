@@ -1,7 +1,6 @@
 ---
 layout: base
 title: "Shiyu Liu - Resume"
-subtitle: "R-Shiny developer and consultant with a MSc in Bioinformatics and a Bachelor of Computer Science. Previously a software engineer at Google, IBM, and Wish.com."
 show-avatar: true
 nav-short: false
 --
