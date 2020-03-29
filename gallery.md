@@ -41,7 +41,7 @@ subtitle: View Some of Shiyu's Photography Works and Video Clips
 ![](/img/gallery/IMG_3490.jpg){:height="49%" width="49%"} ![](/img/gallery/IMG_3494.jpg){:height="49%" width="49%"}
 
 
-![](/img/gallery/IMG_3499.jpg){:height="49%" width="49%"} ![](/img/gallery/IMG_3443.jpg){:height="49%" width="49%"}
+![](/img/gallery/IMG_3443.jpg){:height="49%" width="49%"} ![](/img/gallery/IMG_3499.jpg){:height="49%" width="49%"}
 
 
 #### San Francisco, CA 2016
