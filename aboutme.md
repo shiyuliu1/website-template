@@ -3,7 +3,7 @@ layout: page
 title: About Shiyu Liu
 use-site-title: true
 bigimg: 
-  - /img/gallery/G0042516.JPG : "Hawaii, 2017"
+  - /img/gallery/G0042516.jpg : "Hawaii, 2017"
 subtitle: Hi There! Welcome to Shiyu's Introduction Page.
 ---
 
