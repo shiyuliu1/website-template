@@ -1,2 +1,20 @@
-<script async src="https://cse.google.com/cse.js?cx=004095808219628305223:hm1spuu7vcu"></script>
-<div class="gcse-search"></div>
+---
+layout: page
+title: Search
+subtitle: Feeling lost? Look for things in my blog.
+---
+
+This blog uses [google search](http://google.com/cse).
+
+<script>
+  (function() {
+    var cx = '004095808219628305223:hm1spuu7vcu';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search>
