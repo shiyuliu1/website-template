@@ -16,7 +16,7 @@ subtitle: View some of Shiyu's Photography Works and Video Clips
 ![](/img/gallery/hawaii1.jpg){:height="49%" width="49%"} ![](/img/gallery/hawaii2.jpg){:height="49%" width="49%"}
 
 
-![](/img/gallery/hawaii3.jpg){:height="49%" width="49%"} ![](/img/gallery/hawaii4.jpg){:height="49%" width="49%"}
+![](/img/gallery/hawaii3.jpg){:height="49%" width="49%"} ![](/img/gallery/IMG_2908.jpg){:height="49%" width="49%"}
 
 
 ![](/img/gallery/hawaii5.jpg){:height="49%" width="49%"} ![](/img/gallery/hawaii6.jpg){:height="49%" width="49%"}
