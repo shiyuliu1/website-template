@@ -9,7 +9,7 @@ subtitle: View some of Shiyu's photography Works and Video Clips
 ![](/img/gallery/IMG_5795-2.jpg){:height="220px"} ![](/img/gallery/IMG_6033.jpg){:height="220px"}
 
 
-![](/img/gallery/MV_HDR.jpg){:height="230px"} ![](/img/gallery/IMG_5849.jpg){:height="230px"}
+![](/img/gallery/MV_HDR.jpg){:height="235px"} ![](/img/gallery/IMG_5849.jpg){:height="235px"}
 
 
 #### Honolulu, HI 2017
