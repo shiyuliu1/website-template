@@ -38,7 +38,9 @@ subtitle: View Some of Shiyu's Photography Works and Video Clips
 
 
 #### Yosimite National Park, CA 2017
-![](/img/gallery/IMG_13490.jpg){:height="49%" width="49%"} ![](/img/gallery/IMG_3494.jpg){:height="49%" width="49%"}
+![](/img/gallery/IMG_3490.jpg){:height="49%" width="49%"} ![](/img/gallery/IMG_3494.jpg){:height="49%" width="49%"}
+
+
 ![](/img/gallery/IMG_3499.jpg){:height="49%" width="49%"} ![](/img/gallery/IMG_3443.jpg){:height="49%" width="49%"}
 
 
