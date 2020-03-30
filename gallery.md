@@ -16,7 +16,7 @@ subtitle: View Some of Shiyu's Photography Works and Video Clips
 
 
 
-#### Los Angeles, CA 2017
+#### Los Angeles, CA 2018
 ![](/img/galleryIMG_4133-1.JPG){:height="49%" width="49%"} ![](/img/gallery/IMG_4178-1.jpg){:height="49%" width="49%"}
 
 
