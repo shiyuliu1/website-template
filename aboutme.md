@@ -16,6 +16,10 @@ Shiyu Liu (刘时雨 in Chinese) is currently a master student in [data science]
 <span class="fa fa-heart about-icon"></span> 
 For leisure time, Shiyu enjoys photography, video recording, badminton, longboarding and hanging out with friends.
 
-
+<form action="https://formspree.io/xyyprgkq" method="POST">
+  <input type="text" name="name">
+  <input type="email" name="_replyto">
+  <input type="submit" value="Send">
+</form>
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5r3v0e1klp6&amp;m=0&amp;c=007eff&amp;cr1=ffc000&amp;f=arial&amp;l=0&amp;rs=30&amp;as=30" async="async"></script>
