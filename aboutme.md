@@ -18,7 +18,7 @@ For leisure time, Shiyu enjoys photography, video recording, badminton, longboar
 
 <span class="fa fa-envelope about-icon"></span>
 <form action="https://formspree.io/xyyprgkq" method="POST" class="form" id="contact-form">
-  <p>You are encouraged to send message to Shiyu through the following form:</p>
+  <p>You are encouraged to send a quick message to Shiyu through the following form: </p>
   <div class="row">
     <div class="col-xs-6">
       <input type="email" name="_replyto" class="form-control input-lg" placeholder="Email" title="Email">
@@ -28,7 +28,8 @@ For leisure time, Shiyu enjoys photography, video recording, badminton, longboar
     </div>
   </div>
   <input type="hidden" name="_subject" value="New submission">
-  <textarea type="text" name="content" class="form-control input-lg" placeholder="Message" title="Message" required="required" rows="3"></textarea>
+  
+  <textarea type="text" name="content" class="form-control input-lg" placeholder="Message" title="Message" required="required" rows="3">   </textarea>
   <input type="text" name="_gotcha" style="display:none">
   <input type="hidden" name="_next" value="?message=Your message was sent successfully, thanks!" />
   <!-- <div style="font-size: 12px; margin: -10px 0 10px;"> </div> -->
