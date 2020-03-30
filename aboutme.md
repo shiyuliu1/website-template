@@ -13,17 +13,17 @@ subtitle: Hi There! Welcome to Shiyu's Introduction Page.
 ---
 
 
-![](/img/cover.JPG){:height="245px"}    ![](/img/dogs.jpg){:height="245px"}
+![](/img/cover.JPG){:height="245px"}    [![](/img/dogs.jpg){:height="245px"}](https://faculty.sites.uci.edu/weinings/)
 
 <span class="fa fa-graduation-cap about-icon"></span> 
-Shiyu Liu (刘时雨 in Chinese) is currently a master student in [data science](dsi.brown.edu) at [Brown University](http://brown.edu). He completed his bachelors degree in [cognitive science](https://www.cogsci.uci.edu/) and a minor in statistics at [UC Irvine](http://uci.edu). Shiyu is particularly interested in applying machine learning and deep learning techniques in healthcare data, cognition process and social sciences. 
+Shiyu Liu (刘时雨 in Chinese) is currently a master student in [data science](dsi.brown.edu) at [Brown University](http://brown.edu). He obtained his bachelors degree in [cognitive science](https://www.cogsci.uci.edu/) and a minor in statistics at [UC Irvine](http://uci.edu). Shiyu is particularly interested in applying machine learning and deep learning techniques in healthcare data, cognition process and social sciences. 
 
 <span class="fa fa-heart about-icon"></span> 
 For leisure time, Shiyu enjoys photography, video recording, badminton, longboarding and hanging out with friends. To view Shiyu's photos and videos, please vist his gallery page using the navigation bar.
 
-<span class="fa fa-envelope about-icon"></span>
+<span class="fa fa-envelope about-icon"></span> Shiyu looks forward to making new firends and meeting old friends.
 <form action="https://formspree.io/xyyprgkq" method="POST" class="form" id="contact-form">
-  <p>You are encouraged to send a quick message to Shiyu through the following form: </p>
+  <p>You are also encouraged to send a quick message to Shiyu through the following form: </p>
   <div class="row">
     <div class="col-xs-6">
       <input type="email" name="_replyto" class="form-control input-lg" placeholder="Email" title="Email">
