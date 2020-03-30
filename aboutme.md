@@ -28,7 +28,7 @@ For leisure time, Shiyu enjoys photography, video recording, badminton, longboar
     </div>
   </div>
   <input type="hidden" name="_subject" value="New submission">
-  
+  <br>
   <textarea type="text" name="content" class="form-control input-lg" placeholder="Message" title="Message" required="required" rows="3">   </textarea>
   <input type="text" name="_gotcha" style="display:none">
   <input type="hidden" name="_next" value="?message=Your message was sent successfully, thanks!" />
