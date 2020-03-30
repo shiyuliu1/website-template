@@ -15,6 +15,13 @@ subtitle: View Some of Shiyu's Photography Works and Video Clips
 ![](/img/gallery/MV_HDR.jpg){:height="235px"} ![](/img/gallery/IMG_5849.jpg){:height="235px"}
 
 
+#### CA-1, CA 2017
+![](/img/gallery/IMG_5064_1.jpg){:height="49%" width="49%"} ![](/img/gallery/IMG_4741_1.jpg){:height="49%" width="49%"}
+
+
+![](/img/gallery/IMG_4764_1.jpg){:height="49%" width="49%"} ![](/img/gallery/IMG_4924_1.jpg){:height="49%" width="49%"}
+
+
 #### Honolulu, HI 2017
 ![](/img/gallery/hawaii1.jpg){:height="49%" width="49%"} ![](/img/gallery/hawaii2.jpg){:height="49%" width="49%"}
 
