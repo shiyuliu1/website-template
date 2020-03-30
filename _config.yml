@@ -20,7 +20,7 @@ description: Personal Website of Shiyu
 
 # List of links in the navigation bar
 navbar-links:
-  Posts: ""
+  Posts: " "
   About Me: "aboutme"
   Links:
     - Linkedin: "https://www.linkedin.com/in/shiyu-liu1/"
