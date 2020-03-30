@@ -6,16 +6,21 @@ subtitle: View Some of Shiyu's Photography Works and Video Clips
 
 
 #### Arizona & Utah 2019
-![](/img/gallery/IMG_7438.jpg){:height="235px"} ![](/img/gallery/IMG_6193.jpg){:height="235px"}
+![](/img/gallery/IMG_7438.jpg){:height="49%" width="49%"} ![](/img/gallery/IMG_6193.jpg){:height="49%" width="49%"}
 
 
-![](/img/gallery/IMG_5795-2.jpg){:height="220px"} ![](/img/gallery/IMG_6033.jpg){:height="220px"}
+![](/img/gallery/IMG_5795-2.jpg){:height="49%" width="49%"} ![](/img/gallery/IMG_6033.jpg){:height="49%" width="49%"}
 
 
-![](/img/gallery/MV_HDR.jpg){:height="235px"} ![](/img/gallery/IMG_5849.jpg){:height="235px"}
+![](/img/gallery/MV_HDR.jpg){:height="49%" width="49%"} ![](/img/gallery/IMG_5849.jpg){:height="49%" width="49%"}
 
 
-#### CA-1, CA 2017
+
+#### Los Angeles, CA 2017
+![](/img/galleryIMG_4133-1.JPG){:height="49%" width="49%"} ![](/img/gallery/IMG_4178-1.jpg){:height="49%" width="49%"}
+
+
+#### CA-1, CA 2018
 ![](/img/gallery/IMG_5064_1.jpg){:height="49%" width="49%"} ![](/img/gallery/IMG_4741_1.jpg){:height="49%" width="49%"}
 
 
