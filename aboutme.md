@@ -9,6 +9,7 @@ bigimg:
   - /img/gallery/IMG_2024.jpg : "Ramona, CA, 2016"
   - /img/gallery/IMG_5622.JPG : "Las Vegas, NV, 2019"
   - /img/gallery/IMG_4361-2.jpg : "Los Angeles, CA, 2018"
+  - /img/gallery/shiba.jpg : "Beijing, CN, 2019"
 subtitle: Hi There! Welcome to Shiyu's Introduction Page.
 ---
 
