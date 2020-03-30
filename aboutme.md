@@ -21,7 +21,7 @@ Shiyu Liu (刘时雨 in Chinese) is currently a master student in [data science]
 <span class="fa fa-heart about-icon"></span> 
 For leisure time, Shiyu enjoys photography, video recording, badminton, longboarding and hanging out with friends. To view Shiyu's photos and videos, please vist his gallery page using the navigation bar.
 
-<span class="fa fa-envelope about-icon"></span> Shiyu looks forward to making new firends and meeting old friends.
+<span class="fa fa-envelope about-icon"></span> Shiyu looks forward to making new firends and meeting old friends. He can be reached through [Linkedin](https://www.linkedin.com/in/shiyu-liu1/) and <a href = "mailto: shiyuliu001@gmail.com">by email</a>.
 <form action="https://formspree.io/xyyprgkq" method="POST" class="form" id="contact-form">
   <p>You are also encouraged to send a quick message to Shiyu through the following form: </p>
   <div class="row">
