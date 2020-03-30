@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About Shiyu Liu
-use-site-title: true
 bigimg: 
   - /img/gallery/G0042516.jpg : "Waialua, HI, 2017"
   - /img/gallery/IMG_20190511_1.jpg : "Page, AZ, 2019"
@@ -9,6 +8,7 @@ bigimg:
   - /img/gallery/walkingdog.jpg : "Cleveland, OH, 2017"
   - /img/gallery/IMG_2024.jpg : "Ramona, CA, 2016"
   - /img/gallery/IMG_5622.JPG : "Las Vegas, NV, 2019"
+  - /img/gallery/IMG_4361-2.jpg : "Los Angeles, CA, 2018"
 subtitle: Hi There! Welcome to Shiyu's Introduction Page.
 ---
 
