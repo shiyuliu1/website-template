@@ -31,8 +31,7 @@ For leisure time, Shiyu enjoys photography, video recording, badminton, longboar
   <textarea type="text" name="content" class="form-control input-lg" placeholder="Message" title="Message" required="required" rows="3"></textarea>
   <input type="text" name="_gotcha" style="display:none">
   <input type="hidden" name="_next" value="?message=Your message was sent successfully, thanks!" />
-  
-  <div style="font-size: 12px; margin: -10px 0 10px;"> </div>
+  <!-- <div style="font-size: 12px; margin: -10px 0 10px;"> </div> -->
   
   <button type="submit" class="btn btn-lg btn-primary">Submit</button>
 </form>
